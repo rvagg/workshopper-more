@@ -1,0 +1,14 @@
+{
+  "name": "workshopper-more",
+  "version": "1.0.0",
+  "description": "Implement `workshop-app more` command for more detailed docs for the Workshopper framework",
+  "main": "./more.js",
+  "author": "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvagg/workshopper-more.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
