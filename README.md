@@ -2,6 +2,8 @@
 
 **Implement `workshop-app more` command for more detailed docs**
 
+[![NPM](https://nodei.co/npm/workshopper-more.png?downloads=true&stars=true)](https://nodei.co/npm/workshopper-more/) [![NPM](https://nodei.co/npm-dl/workshopper-more.png?months=3)](https://nodei.co/npm/workshopper-more/)
+
 ```js
 var more = require('workshopper-more')
 
