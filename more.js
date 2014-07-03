@@ -23,7 +23,7 @@ function more (workshopper) {
     )
   }
 
-  workshopper.print.file(this.appName, this.appDir, moreFile)
+  workshopper.print.file(workshopper.appName, workshopper.appDir, moreFile)
 }
 
 
